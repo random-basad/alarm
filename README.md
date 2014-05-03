@@ -23,10 +23,10 @@ now set all your alarm in .time file , which is hidden file at home , using this
 not set as alarm( acts like comment).
 
 185530| go to dinner, it is time of it
->181500| go for long kriya,  old kailash
 184000| goint  at III363
-000000| it's time of going to hostel. ... go .
+000000| its time of going to hostel. ... go .
 230000| go to hostel sleep well ...
+181500| go for long kriya,  old kailash
 
 
 
